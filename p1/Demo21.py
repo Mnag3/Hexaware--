@@ -15,10 +15,6 @@ class B :
         print("B class xyz method");
 
 
-
-
-
-
 class C :
     def _init_(self):
         print("Hi class C class:");
